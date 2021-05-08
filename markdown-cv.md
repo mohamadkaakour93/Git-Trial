@@ -1,10 +1,10 @@
-<center>Mohamad El Kaakour</center>
+Mohamad El Kaakour
 
-<center>Baassir el chouf, Lebanon</center>
+Baassir el chouf, Lebanon
 
-<center>13/7/1993</center>
+13/7/1993
 
-<center>Email: mhamad_kaakour@hotmail.com</center>  
+Email: mhamad_kaakour@hotmail.com 
 
 
 
@@ -47,3 +47,8 @@ Intend to build a career with leading corporate of repute with committed and ded
     - Hardware implementation.
     - solving users problem on a daily bases. 
     - improving the ability to work within a team.
+
+### **Volunteering**:
++ volunteer at Baasir charity Association
+    - Baasir donations campaign for the poor and refugees.
+    - Blood donation campaign. 
