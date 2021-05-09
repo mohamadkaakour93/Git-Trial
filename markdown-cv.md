@@ -13,7 +13,7 @@ Intend to build a career with leading corporate of repute with committed and ded
 
 ### **Qualifications** :
 
-* •	Energetic, Friendly, Pleasant, Outgoing,Result-Oriented, Enthusiastic.
+* Energetic, Friendly, Pleasant, Outgoing,Result-Oriented, Enthusiastic.
 * Good written/verbal communication – Proficient in presentation, writing and/or editing manuals, product promotion and advertising.
 * Exceptional customer service.
 * Proven aptitude in problem solving.
@@ -52,3 +52,5 @@ Intend to build a career with leading corporate of repute with committed and ded
 + volunteer at Baasir charity Association
     - Baasir donations campaign for the poor and refugees.
     - Blood donation campaign. 
+
+![my image](https://github.com/mohamadkaakour93/Git-Trial/blob/mohamad-elkaakour/my%20image.jpg)
